@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Model files and large data
+*.pkl
+*.h5
+*.model
+data/
+models/
+processed_data/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+mlruns/
