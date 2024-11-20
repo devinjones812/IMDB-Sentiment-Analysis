@@ -30,3 +30,4 @@ processed_data/
 # Logs
 *.log
 mlruns/
+.DS_Store

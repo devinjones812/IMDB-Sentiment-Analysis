@@ -8,3 +8,4 @@ transformers
 shap
 tqdm
 joblib
+nltk

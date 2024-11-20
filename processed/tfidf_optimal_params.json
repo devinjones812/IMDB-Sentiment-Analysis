@@ -1,0 +1,18 @@
+{
+    "tfidf_parameters": {
+        "max_df": 0.7017559963200033,
+        "max_features": 14943,
+        "min_df": 7,
+        "ngram_range": [
+            1,
+            2
+        ],
+        "sublinear_tf": true
+    },
+    "best_f1_score": 0.8733205342148456,
+    "best_accuracy": 0.8712,
+    "best_precision": 0.8536196989077519,
+    "best_recall": 0.894117933406893,
+    "logistic_regression_C": 1.0,
+    "optimization_date": "2024-11-19 23:53:22"
+}
