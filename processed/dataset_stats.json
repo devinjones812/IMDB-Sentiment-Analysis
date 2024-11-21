@@ -1,0 +1,20 @@
+{
+    "dataset_sizes": {
+        "train_positive": 12500,
+        "train_negative": 12500,
+        "train_unsupervised": 50000,
+        "test_positive": 12500,
+        "test_negative": 12500
+    },
+    "vocabulary_size": 14943,
+    "tfidf_parameters": {
+        "max_df": 0.7017559963200033,
+        "max_features": 14943,
+        "min_df": 7,
+        "ngram_range": [
+            1,
+            2
+        ],
+        "sublinear_tf": true
+    }
+}

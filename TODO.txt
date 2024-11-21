@@ -1,0 +1,3 @@
+
+Make sure test data is loaded into the raw data pkl in optimize_tfidf params
+-> separate into 2 different scripts?

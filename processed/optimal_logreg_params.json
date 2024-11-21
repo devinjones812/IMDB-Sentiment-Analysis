@@ -1,0 +1,7 @@
+{
+    "logistic_regression_C": 5.0,
+    "class_weight": "None",
+    "max_iter": 2000,
+    "tol": 0.001,
+    "best_f1_score": 0.891031992045809
+}

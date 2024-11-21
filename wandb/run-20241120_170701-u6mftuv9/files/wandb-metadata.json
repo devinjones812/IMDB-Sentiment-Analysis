@@ -1,0 +1,17 @@
+{
+  "os":  "macOS-14.4-arm64-arm-64bit",
+  "python":  "3.12.7",
+  "startedAt":  "2024-11-21T01:07:01.882421Z",
+  "program":  "/Users/DevinJones_1/dev/IMDB-Sentiment-Analysis/scripts/bert_finetuning.py",
+  "codePath":  "scripts/bert_finetuning.py",
+  "git":  {
+    "remote":  "https://github.com/devinjones812/IMDB-Sentiment-Analysis.git",
+    "commit":  "3ce1aebe0308e7a951d6cc4413f56f6cdac9c251"
+  },
+  "email":  "devinjones812@gmail.com",
+  "root":  "/Users/DevinJones_1/dev/IMDB-Sentiment-Analysis",
+  "host":  "dhcp-v070-154.mobile.uci.edu",
+  "username":  "DevinJones",
+  "executable":  "/Users/DevinJones_1/dev/IMDB-Sentiment-Analysis/venv/bin/python",
+  "codePathLocal":  "scripts/bert_finetuning.py"
+}
